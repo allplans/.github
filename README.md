@@ -1,3 +1,3 @@
-# Allplans
+# Allplans Profile
 
-Allplans is the world's best schedule management service.
+Edit the **/profile/README.md** file to modify the proifle.
