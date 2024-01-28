@@ -1,4 +1,4 @@
-# AllPans
+# AllPlans
 
 AllPlans is the world's best schedule management service in the universe.
 
