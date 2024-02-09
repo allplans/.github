@@ -1,3 +1,3 @@
-# AllPlans Profile
+# Allplans Profile
 
 Edit the **/profile/README.md** file to modify the proifle.
