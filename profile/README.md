@@ -2,6 +2,8 @@
 
 Allplans is the world's best schedule management service.
 
+"From the very beginning, we had all plans in place."
+
 <!--
 
 **Here are some ideas to get you started:**
