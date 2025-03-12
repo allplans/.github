@@ -2,7 +2,7 @@
 
 Allplans is the world's best schedule management service.
 
-"From the very beginning, we had all plans in place."
+"From the very beginning, we had all plans in place." - 2025.03.12
 
 <!--
 
