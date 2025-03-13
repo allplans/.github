@@ -1,6 +1,6 @@
 # Allplans
 
-Allplans is the world's best schedule management service.
+Allplans is the world's best work schedule management service.
 
 "Favor action over hesitation, and turn all plans into reality."
 
